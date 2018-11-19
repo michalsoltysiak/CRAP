@@ -36,9 +36,13 @@ However, there are several cases where `_` is accaptable:
 
 ### Sounds similar but makes the difference - the names
 Use verbs to clearly specify what the funcion would do, and what kind of job is that.
+
 `setBackgroundColor` is good, `backgroundColor` is bad example for name of function used to set some parameter.
+
 `startAnimation` is good as clearly states action and subject - it's supposed to start (acion) an animatin (subject).
+
 `onAnimationFinished` is much better than `animationFinished` to be a name for event handler.
+
 Some kind of exception would be:
 `isOperationAllowed` as good, `operationAllowed` as bad example for name of function returning boolean - `is` works as a verb in here.
 
