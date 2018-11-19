@@ -1,4 +1,4 @@
-# Coding rules applicable to Panda (aka CRAP)
+# Coding Rules Applicable to Panda (aka CRAP)
 The purpose of this document is to provide with set of basic rules according to which the Panda code should be written.
 Everyone is welcome to amend, improve, extend and comment it. Especialy if one finds the case under review is not covered by CRAP.
 
